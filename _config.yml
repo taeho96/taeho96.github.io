@@ -9,9 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: Sxdang Blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+email: sagong126@gmail.com
 name: Ben Centra
 description: >
   A simple yet classy theme for your Jekyll website or blog.
@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://taeho96.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -87,7 +87,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/taeho96
     desc: Fork me on GitHub
     share: false
 
@@ -193,6 +193,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/taeho96/taeho96.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:taeho96/taeho96.github.git"
