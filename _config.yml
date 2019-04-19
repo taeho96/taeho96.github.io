@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://taeho96.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/header_cross.jpg"
+logo: "/assets/banana_cons.png"
 
 # Build settings
 markdown: kramdown
