@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title:  "Dummy Post 6"
 date:   2015-04-18 08:43:59
 author: Ben Centra
