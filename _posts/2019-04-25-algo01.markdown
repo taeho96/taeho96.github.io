@@ -5,7 +5,7 @@ date:   2019-04-25 13:02:53
 author: Sxdang
 categories: Algorithm
 tags: algorithm baekjoon
-cover:  "/assets/alphaGo.jpg" 
+cover:  "/assets/alphaGo.jpg"
 ---
 
 ## 9498: 시험성적
@@ -35,7 +35,7 @@ char exam(int n) {
 	else
 		return 'F';
 }
-{% endhighlight %}{% endraw %}
+{% endraw %}{% endhighlight %}
 
 ***
 ## 10871: X보다 작은 수
@@ -69,7 +69,7 @@ int xArray()
 	}
 	return 0;
 }
-{% endhighlight %}{% endraw %}
+{% endraw %}{% endhighlight %}
 
 ***
 ## 10817: 세 수
@@ -92,4 +92,4 @@ void mNumber()
 	sort(arr.begin(), arr.end());
 	cout << arr[1] << endl;
 }
-{% endhighlight %}{% endraw %}
+{% endraw %}{% endhighlight %}
