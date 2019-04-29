@@ -5,7 +5,7 @@ date:   2019-04-25 13:02:53
 author: Sxdang
 categories: Algorithm
 tags: algorithm baekjoon
-cover:  "/assets/alphaGo.jpg"
+cover:  "/assets/algorithm.jpg"
 ---
 
 ## 9498: 시험성적
