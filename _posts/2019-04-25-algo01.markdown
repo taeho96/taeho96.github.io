@@ -5,7 +5,7 @@ date:   2019-04-25 13:02:53
 author: Sxdang
 categories: Algorithm
 tags: algorithm baekjoon
-cover: "/assets/alphaGo.jpg" 
+cover:  "/assets/alphaGo.jpg" 
 ---
 
 ## 9498: 시험성적
@@ -24,7 +24,7 @@ char exam(int n) {
 		return 'A';
 	}
 	else if (80 <= n && 89 >= n) {
-		return 'B';
+		return 'B';\
 	}
 	else if (70 <= n && 79 >= n) {
 		return 'C';
