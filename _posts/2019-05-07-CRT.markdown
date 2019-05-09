@@ -6,6 +6,7 @@ author: Sxdang
 categories: Math
 tags: math algorithm
 cover:  "/assets/32.png"
+use_math: true
 ---
 
 ### 중국인의 나머지 정리
