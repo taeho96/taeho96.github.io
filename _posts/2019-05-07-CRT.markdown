@@ -13,8 +13,7 @@ use_math: true
 #### 연립 합동식의 유일한 해를 찾는 정리
 연립합동식이 2개인 경우를 해결해보자.
 
-$$
-\begin{cases}
+$$\begin{cases}
 x \equiv 3 (mod 5) \longrightarrow (a) \\ x \equiv 4 (mod 7) \longrightarrow (b)
 \end{cases}
 $$
